@@ -9,3 +9,4 @@ Developed an interactive Power BI dashboard and delivered actionable business re
 retention, subscriptions, and sales strategy.
 created a PowerPoint presentation to effectively communicate insights, findings, and data-driven recommendations to 
 stakeholders, improving customer retention, subscriptions, and sales strategy.
+
